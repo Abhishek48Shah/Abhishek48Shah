@@ -1,6 +1,13 @@
 # Abhishek Shah
-![loading animation](./path/to/your/loading-animation.gif)
 
+**Loading...**
+
+**Fun Fact:**
+- I'm from the terminal kingdom. **Arch** user, btw.
+- I grab territory in the backend with my **Node.js** sword and **Express** body armor.
+- I'm aiming for the systems world, armed with a **C** cannon.
+- The god of my own world.
+  
 <!--
 **Abhishek48Shah/Abhishek48Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
