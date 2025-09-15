@@ -1,18 +1,5 @@
 # Abhishek Shah
-
-Just a guy obsessed with coding, teaching myself new stuff, and diving deep into the **backend**.  
-
-I love building things that actually **do stuff**—applications, scripts, and everything in between.  
-
-And yeah… I’m basically a **god in my own world**. 🌌 
-- **Backend:** Node.js
-- **System Programming:** Getting into the systems world with C, Bash, Linux (BTW **ARCH**)
-- **spend time in terminal rather than GUI** 
-
-## 📫 Reach me
-- [Email](shahabhishek932@gmail.com)  
-- [LinkedIn](mailto:https://www.linkedin.com/in/abhishek-shah-10140825b)  
-
+**Loading...**
 
 <!--
 **Abhishek48Shah/Abhishek48Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
