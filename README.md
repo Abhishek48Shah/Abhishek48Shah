@@ -21,8 +21,7 @@ And yes… I’m basically the **god of my own world**
 
 **Currently Playing With:**  
 - Node.js & Express (backend adventures)  
-- Bash, Linux utilities, and small system-level experiments  
-- Random tiny projects that make life easier  
+- Bash, Linux utilities, and small system-level experiments   
 
 ---
 
