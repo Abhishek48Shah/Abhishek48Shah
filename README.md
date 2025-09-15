@@ -3,13 +3,13 @@
 **Loading…**  
 
 Welcome to my little corner of the coding universe.  
-Just a guy from the **terminal kingdom** (Arch user, obviously), wielding my **Node.js sword** and **Express body armor** in the backend battles ⚔️🛡️.  
+Just a guy from the **terminal kingdom** (Arch user, obviously), wielding my **Node.js sword** and **Express body armor** in the backend battles.  
 
-Sometimes I peek into the **systems world with my C cannon** 💻🔫. Still learning, still experimenting, still breaking things (the good way).  
+Sometimes I peek into the **systems world with my C cannon**. Still learning, still experimenting, still breaking things (the good way).  
 
-I spend more time in the terminal than the GUI, because that’s where magic happens. ✨  
+I spend more time in the terminal than the GUI, because that’s where magic happens.
 
-And yes… I’m basically the **god of my own world** 🌌  
+And yes… I’m basically the **god of my own world** 
 
 ---
 
