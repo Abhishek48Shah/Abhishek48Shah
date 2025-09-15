@@ -1,17 +1,18 @@
 # Abhishek Shah
 
-Just a guy obsessed with coding, teaching myself new stuff, and diving deep into the **backend and system-level universe**.  
+Just a guy obsessed with coding, teaching myself new stuff, and diving deep into the **backend**.  
 
 I love building things that actually **do stuff**—applications, scripts, and everything in between.  
 
 And yeah… I’m basically a **god in my own world**. 🌌 
 ## ⚡ Skills & Interests
-- **Backend & System Programming:** C, Bash, JS, Node, Linux magic
-- **Self-learning machine:** Constantly experimenting and breaking things (the good way!)  
+- **Backend:** Node.js
+- **System Programming:** Getting into the systems world with C, Bash, Linux (BTW **ARCH**)
+- **Self-learning machine:** Constantly experimenting and breaking things (the good way!) and spend time in terminal rather then GUI  
 
 ## 📫 Reach me
 - [Email](shahabhishek932@gmail.com)  
-- [LinkedIn](https://www.linkedin.com/in/abhishek-shah-10140825b)  
+- [LinkedIn](mailto:https://www.linkedin.com/in/abhishek-shah-10140825b)  
 
 
 <!--
